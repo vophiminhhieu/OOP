@@ -1,0 +1,15 @@
+﻿  Bai01.cpp
+C:\Users\DELL\source\repos\19120075\Bai01\Machine.h(16,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\DELL\source\repos\19120075\Bai01\Machine.h(24,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\DELL\source\repos\19120075\Bai01\Machine.h(33,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\DELL\source\repos\19120075\Bai01\Machine.h(40,21): warning C4018: '<': signed/unsigned mismatch
+  Detail.cpp
+  DetailItem.cpp
+  Machine.cpp
+C:\Users\DELL\source\repos\19120075\Bai01\Machine.h(16,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\DELL\source\repos\19120075\Bai01\Machine.h(24,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\DELL\source\repos\19120075\Bai01\Machine.h(33,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\DELL\source\repos\19120075\Bai01\Machine.h(40,21): warning C4018: '<': signed/unsigned mismatch
+  SubDetail.cpp
+  Generating Code...
+  Bai01.vcxproj -> C:\Users\DELL\source\repos\19120075\Debug\Bai01.exe
